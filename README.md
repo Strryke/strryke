@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gavin.</h1>
 <h3 align="center">CS student @ SUTD. Mostly, I build stuff that lives on the web.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strryke&label=Profile%20views&color=0e75b6&style=flat" alt="strryke" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strryke" alt="strryke" /></a> </p>
-
 - 🔭 I’m currently working on [Betafish](https://github.com/Strryke/betafish)
 
-- 🌱 I’m currently learning **ML! Getting my feet wet in PyTorch**
+- 🌱 I’m currently learning **DS and Algos 😢**
 
 - 👨‍💻 Learn more about me on my personal site [https://gavinong.com](https://gavinong.com)
 
 - 💬 Ask me about **React, Express, JS/TS**
 
-- 📫 How to reach me **gavinong2000@gmail.com**
+- 📫 Drop me a message at **gavinong2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
